@@ -1,0 +1,1 @@
+while :; do clear; curl wttr.in/perth; sleep 3600; done
